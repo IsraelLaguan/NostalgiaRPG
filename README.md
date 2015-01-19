@@ -2,7 +2,7 @@
 A simple turn-based RPG written in Allegro 5
 Program includes: basic collision detection, black and white sprite map edge detection, turn based combat system, overworld, enemy logic, multiple weapons to equip
 
-***The music used in game is open source and NOT created by myself, Josh Chartrand, or any other contributors to this project (Armine Aex Hollohan and Erica Lekawski)
+***The music used in game is open source and NOT created by myself, Josh Chartrand, or any other contributors to this project (Armine Alex Hollohan and Erica Lekawski)
 
 This was a collaberative assignment coded by myself and two other partners, names stated above.
 
